@@ -1,0 +1,5 @@
+{
+  "name": "AC Circuit Master",
+  "description": "Una aplicación completa para el análisis de circuitos de corriente alterna en serie. Permite cálculos con impedancias en formato polar, rectangular y RLC, visualización de diagramas vectoriales y análisis de potencia.",
+  "requestFramePermissions": []
+}
